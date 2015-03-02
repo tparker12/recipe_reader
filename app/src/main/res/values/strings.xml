@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecipeReaderApp</string>
+    <string name="Intro">This is the test area to view recipes...</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
